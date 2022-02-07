@@ -95,6 +95,7 @@ hr {
   font-size: 11px;
   text-align: center;
 }
+
 a {
   text-decoration: none;
   color: var(--soft-blue);
@@ -102,6 +103,7 @@ a {
 }
 a:hover {
   color: cyan;
+  font-style: italic;
 }
 @media (max-width: 376px) {
   .container {
